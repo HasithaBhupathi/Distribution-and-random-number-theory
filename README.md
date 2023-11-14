@@ -1,1 +1,3 @@
-# Distribution-and-random-number-theory
+Many numerical problems in science, engineering, finance, and statistics are solved nowadays through Monte Carlo methods.
+At the heart of any Monte Carlo method is a random number generator.Today, independent and identically random numbers can be generated with the help of hardware as well as software according to some probability distribution.
+Computer-generated random numbers are sometimes referred to as pseudorandom numbers to differentiate them from the "truly" random numbers generated from physical processes and hardware.The numbers are also deemed pseudorandom because some arithmetic procedure is used to generate them.
